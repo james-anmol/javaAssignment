@@ -1,6 +1,6 @@
 package sort;
 
-public class quickSort extends sort {
+public class insertionSort extends sort {
 
 
 
